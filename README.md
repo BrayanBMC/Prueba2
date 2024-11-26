@@ -1,4 +1,4 @@
-# **README: Solución al Ejercicio de Seguridad en Contraseñas**
+# **Solución al Ejercicio de Seguridad en Contraseñas**
 
 ## **Descripción del problema**
 El objetivo de este proyecto es implementar una función en Python llamada `validate_password` que evalúe la fortaleza de una contraseña basada en los siguientes criterios de seguridad:
